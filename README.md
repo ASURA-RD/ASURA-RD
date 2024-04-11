@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ritheesh Devaraj@ASURA-RD working as graduate Engineer Trainee @Taxilla,Hyderabad
-- 👀 I’m interested in java ,python,Novels,Anime,Kotlin,Docker
+- 👋 Hi, I’m Ritheesh Devaraj@ASURA-RD working as Program Analyst @Taxilla,Hyderabad
+- 👀 I’m interested in java,Novels,Anime,Kotlin,Docker
 - 🌱 I’m currently learning ..
-- 💞️ I’m looking to collaborate on java,Hibernate,Mysql,Spring
+- 💞️ I’m looking to collaborate on java,Quarkus,Casssandra,Kotlin,Rust,Mysql,Spring
 - 📫 How to reach me ritheeshdevaraj@gmail.com
 
 <!---
